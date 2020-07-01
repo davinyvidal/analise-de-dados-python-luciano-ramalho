@@ -3,6 +3,7 @@
 Curso da The Carpentries realizado pelo Luciano Ramalho
 
 * Repositório com todos os arquivos das aulas em Jupyter Notebook
+  
 [Site do Curso](https://dadosprobr.github.io/python-novice-inflammation/index.html)
   
 ```bash
