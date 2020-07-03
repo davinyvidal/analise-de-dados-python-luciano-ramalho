@@ -12,15 +12,16 @@ Curso da The Carpentries realizado pelo Luciano Ramalho
 |==============================================|
 ```
 
-# Ferramentas ultilizada
+## Ferramentas ultilizada
 
 * Jupyter Notebook
+* Python 3
   
-# LICENSE
+## LICENSE
 * Conteúdo dentro das página de formas descritiva contém direito autoral.
 
 * Somente a o layouts está em Licença Pública Geral GNU v3.0
 
-# Autora
+#### Aluna
 [Daviny Vidal](http://davinyvidal.github.io)
 
